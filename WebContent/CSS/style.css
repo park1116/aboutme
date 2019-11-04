@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+#indexHtml{
+	background-color: #6dfa8d;
+}
+
+#header {
+	background: #fff;
+	overflow:auto;
+}
+
+#header ul {
+	float: right;
+}
+
+#header li{
+	margin-right: 5px;
+	width: 100px;
+}
+
+#header ul li a{
+	color: black;
+}
+
+a{
+	text-decoration: none;
+}
+
+li{
+	list-style: none;
+	text-align: center;
+	display: inline-block;
+	background-color: #3cdbd3;
+	box-shadow: 3px 3px;
+}
+
+#indexBody {
+	text-align: center;
+	background-color: #fff;
+	margin: 10px 0px;
+}
+
+#indexBody li{
+	line-height: 100px;
+	height: 100px;
+	width: 100px;
+}
+
+#indexBody a{
+	color: white;
+}
+
+#footer {
+	background-color: #fff;
+	text-align: center;
+}
